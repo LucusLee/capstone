@@ -175,7 +175,7 @@ Although we are unable to measure the benefit in monetary value, it can be repla
 
 ## Conclusion
 
-Clearly, this is not a foolproof method because there is no clear distinction on whether the candidate is right or wrong for the job. The recommender will recommend applicants who fulfils the job requirements based on the skill set and grant them a chance for an interview but does not guarantee them landing a job because the recommender does not capture the aspect of soft skills.
+In conclusion, this is not a foolproof method because there is no clear distinction on whether the candidate is right or wrong for the job. What the recommendation system does is to recommend applicants who fulfills the job requirement but does not guarantee the hirer that they are the candidate the company is looking for as it is unable to capture in the aspects of soft skills.
 
 However the recommender indeed help the user to save time like instead of screening hundreds of resumes and choose suitable candidates for interviews, it returns an overview of the applicants it recommended and it takes an average of 10-15 seconds to return an output saving approximately 80% for 10 candidates. It also provides the flexibility to allow user to customize and experiment on different requirements.
 
